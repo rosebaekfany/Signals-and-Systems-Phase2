@@ -19,8 +19,6 @@ Tested on *Twinkle, Twinkle, Little Star*, *Ave Maria*, *Polyushka-polye* and *J
 | `report.docx` | Report (Word version) |
 | `SS-Project-Phase2_*.zip` | Submitted versions of the project |
 
-Phase 1: [Signals-and-Systems-Phase1](https://github.com/rosebaekfany/Signals-and-Systems-Phase1)
-
 ## Tools
 
 Python · OpenCV · NumPy · SciPy
